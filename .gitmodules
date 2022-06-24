@@ -1,0 +1,3 @@
+[submodule "spring-react-simple-employee-crud"]
+	path = spring-react-simple-employee-crud
+	url = git@github.com:Wasim27/spring-react-simple-employee-crud.git
